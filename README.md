@@ -1,4 +1,4 @@
-# 100 Days With Python
+# Learning Python
 
 ![](https://abdelmoubine.github.io/MoubineSAds/Img/logo.png)
 
